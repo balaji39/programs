@@ -1,0 +1,7 @@
+#include<iostream>
+using nameespace std;
+int main()
+{
+    cout<<helloworld<<endl;
+    return 0;
+}
